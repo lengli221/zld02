@@ -1,0 +1,12 @@
+---- FlushQueue Matches (11 in 3 files) ----
+Queue.h (c:\users\administrator\desktop\01.pro_1225\02.cmm\01.queue):#define FlushQueue(pQ)      \
+Usart1_232.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):				FlushQueue(uart1Info.TxQueue);
+Usart1_232.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):				FlushQueue(uart1Info.RxQueue);
+Usart1_232.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):					FlushQueue(uart1Info.TxQueue);
+Usart1_232.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):	FlushQueue(uart1Info.TxQueue);
+Usart1_232.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):	FlushQueue(uart1Info.RxQueue);
+Usart2_485.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):				FlushQueue(uart2Info.TxQueue);
+Usart2_485.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):				FlushQueue(uart2Info.RxQueue);
+Usart2_485.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):					FlushQueue(uart2Info.TxQueue);
+Usart2_485.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):	FlushQueue(uart2Info.TxQueue);
+Usart2_485.c (c:\users\administrator\desktop\01.pro_1225\06.bsp\01.usart):	FlushQueue(uart2Info.RxQueue);

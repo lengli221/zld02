@@ -17,9 +17,11 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+20210719(17:07)--备注
+功能:
+1.  美团12A bootloader 使用宏定义切换232和485接口
+存在问题:
+1. bootloader与App层协议不兼容
 
 #### 参与贡献
 
